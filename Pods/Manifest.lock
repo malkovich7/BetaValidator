@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://jfrog.zeusgs.com.mx/artifactory/api/pods/cocoapods-remote:
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SwiftyJSON: 064132aefbbd704ad68b9b5d3e0ffadd4d36975a
+
+PODFILE CHECKSUM: b0789f29cbba7ec78a68086a76a4786d70fb16cd
+
+COCOAPODS: 1.11.2
